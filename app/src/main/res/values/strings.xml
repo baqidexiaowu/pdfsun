@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">孙正義PDF</string>
+    <string name="load_error">重新加载</string>
+    <string name="header_listview_cancel">Cancel</string>
+    <string name="header_listview_hint">请输入这里</string>
+    <string name="title_main">演讲集列表</string>
+    <string name="drawLayout_close">资料列表</string>
+    <string name="drawLayout_open">设置中心</string>
+    <string name="user_name">And2Long</string>
+    <string name="user_email">and2long@gmail.com</string>
+    <string name="tv_home">主页</string>
+    <string name="tv_setting">设置</string>
+    <string name="tv_exit">退出</string>
+    <string name="action_search">Search...</string>
+    <string name="item_01">关于</string>
+    <string name="item_02">item2</string>
+    <string name="menu_refresh">刷新</string>
+    <string name="action_share">分享</string>
+    <string name="tv_offline">离线</string>
+    <string name="tv_collection">收藏</string>
+    <string name="action_home">网址</string>
+    <string name="action_settings">设置</string>
+    <string name="title_offline">离线阅读</string>
+    <string name="title_read_online">在线阅读</string>
+    <string name="title_collection">我的收藏</string>
+    <string-array name="menu_titles">
+        <item>主页</item>
+        <item>离线</item>
+        <item>收藏</item>
+        <item>退出</item>
+    </string-array>
+
+    <string name="download_queue_provider_authority">com.jz.pdf.amazonaws.downloader-com.jz.pdf</string>
+    <!-- This can be anything, but it should be unique to the app. -->
+    <string name="content_file_provider_authority">com.jzpdf.fileprovider</string>
+    <string name="title_pdf_intro">简介</string>
+</resources>
